@@ -41,7 +41,7 @@ A predictive tool analyzing historical tennis match data to forecast outcomes.
 ---
 
 <div align="left">
-  <a href="[https://www.linkedin.com/in/raul-jimenez-delgado-06108436b](https://www.linkedin.com/in/rauljimenezdelgado/)/">
+  <a href="https://www.linkedin.com/in/rauljimenezdelgado/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:raul.jimenez.del@gmail.com">
