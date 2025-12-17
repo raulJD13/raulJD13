@@ -39,11 +39,6 @@ A predictive tool analyzing historical tennis match data to forecast outcomes.
 * **Key Achievement:** Developed complex logic for historical data parsing and probability estimation.
 
 ---
-### GitHub Activity
-
-![Raúl's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulJD13&show_icons=true&theme=minimal&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulJD13&layout=compact&theme=minimal&hide_border=true)
----
 
 <div align="left">
   <a href="https://www.linkedin.com/in/raul-jimenez-delgado-06108436b/">
