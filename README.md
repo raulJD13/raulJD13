@@ -28,7 +28,7 @@ A cloud-native solution designed to ingest, transform, and visualize meteorologi
 * **Tech Stack:** Python, AWS (Cloud), PostgreSQL, Streamlit, Docker.
 * **Key Achievement:** Implemented a fully automated extraction process with error handling and data validation layers.
   
-#### 🛰️ Eco-Pulse Lakehouse
+#### 🛰️ [Eco Pulse Lakehouse] (https://github.com/raulJD13/eco-pulse-lakehouse.git)
 **Real-Time Distributed Streaming & Lakehouse Architecture.**  
 An end-to-end data engineering solution that ingests satellite telemetry (NASA) and IoT sensor data to calculate wildfire spread risk in real-time.
 * **Tech Stack:** Python, Apache Spark (Structured Streaming), Kafka, Delta Lake, MinIO, Docker.
