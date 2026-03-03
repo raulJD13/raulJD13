@@ -22,14 +22,20 @@ Currently preparing for the **AWS Solutions Architect Associate (SAA-C03)** cert
 
 ### Selected Projects
 
+#### 🚢 [Atlantic Ops Lakehouse](https://github.com/raulJD13/Atlantic-Ops.git)
+**Real-Time Maritime Logistics Intelligence Platform.**
+An end-to-end data engineering platform for maritime operations that ingests vessel positions in real time, validates them via strict data contracts, detects operational events through geofencing, and stores a reliable historical record with full ACID guarantees on top of a lakehouse.
+* **Tech Stack:** Python, Apache Spark (Structured Streaming), Kafka, Delta Lake, MinIO, DuckDB, Streamlit, PyDeck, Docker, GitHub Actions.
+* **Key Achievement:** Architected a complete streaming pipeline—from AIS ingestion through Kafka and Spark ETL to Delta Lake on S3-compatible storage—served via DuckDB and visualised on an interactive real-time dashboard with geofencing alerts and fleet KPIs.
+
 #### ☁️ [CanaryAir Data Engineering](https://github.com/raulJD13/CanaryAir-Data-Engineering.git)
 **Automated ETL pipeline for air quality monitoring.**
 A cloud-native solution designed to ingest, transform, and visualize meteorological data from the Canary Islands.
 * **Tech Stack:** Python, AWS (Cloud), PostgreSQL, Streamlit, Docker.
 * **Key Achievement:** Implemented a fully automated extraction process with error handling and data validation layers.
-  
+
 #### 🛰️ [Eco Pulse Lakehouse](https://github.com/raulJD13/eco-pulse-lakehouse.git)
-**Real-Time Distributed Streaming & Lakehouse Architecture.**  
+**Real-Time Distributed Streaming & Lakehouse Architecture.**
 An end-to-end data engineering solution that ingests satellite telemetry (NASA) and IoT sensor data to calculate wildfire spread risk in real-time.
 * **Tech Stack:** Python, Apache Spark (Structured Streaming), Kafka, Delta Lake, MinIO, Docker.
 * **Key Achievement:** Architected a Medallion Architecture pipeline capable of performing geospatial cross-joins between disparate streams while ensuring ACID compliance via Delta Lake.
@@ -39,12 +45,6 @@ An end-to-end data engineering solution that ingests satellite telemetry (NASA) 
 End-to-end workflow to predict customer attrition in the banking sector.
 * **Tech Stack:** Python, Scikit-Learn, Pandas.
 * **Key Achievement:** Focused on data preprocessing, feature engineering, and model evaluation to solve a real-world business problem.
-
-#### 🎾 [ATP Match Predictor](https://github.com/raulJD13/atp-match-predictor.git)
-**Sports Analytics & Algorithmic Prediction.**
-A predictive tool analyzing historical tennis match data to forecast outcomes.
-* **Tech Stack:** Python, Statistical Analysis.
-* **Key Achievement:** Developed complex logic for historical data parsing and probability estimation.
 
 ---
 
