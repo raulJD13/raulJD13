@@ -22,6 +22,14 @@ Data Engineer & Automation Specialist | Python · AWS · Google Workspace | Curr
 ---
 
 ### Selected Projects
+#### ⚽ [Football Analytics](https://github.com/raulJD13/football-analytics.git)
+
+**End-to-End Data Engineering & Machine Learning Platform for Football Match Prediction.**  
+A complete data engineering and ML platform for LaLiga match prediction. The system ingests historical football data from external APIs, orchestrates pipelines with Airflow, stores raw data in MinIO, transforms it with dbt into ClickHouse, trains Poisson and XGBoost models tracked in MLflow, and serves predictions through a FastAPI backend and a Next.js dashboard.
+
+* **Tech Stack:** Python, Airflow, dbt, ClickHouse, MinIO, MLflow, FastAPI, Next.js, Docker, XGBoost.
+
+* **Key Achievement:** Built a full-stack analytics platform with automated ingestion, OLAP modeling, model tracking, production-style API serving, and an interactive dashboard. Achieved a cleaned out-of-sample XGBoost accuracy of **55.9%** compared to a **49.0%** home-win baseline.
 
 #### 🚢 [Atlantic Ops Lakehouse](https://github.com/raulJD13/Atlantic-Ops.git)
 **Real-Time Maritime Logistics Intelligence Platform.**
