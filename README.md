@@ -4,7 +4,8 @@
 Based in **Gran Canaria, Spain**.
 I focus on designing and building scalable data pipelines, cloud infrastructure, and backend solutions. My background in software development allows me to apply engineering best practices—such as clean code, version control, and testing—to the data lifecycle.
 
-Currently preparing for the **AWS Solutions Architect Associate (SAA-C03)** certification to further specialize in cloud-native architectures.
+Data Engineer & Automation Specialist | Python · AWS · Google Workspace | Currently @ Dinosol (HiperDino)
+
 
 ---
 
