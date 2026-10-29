@@ -86,7 +86,7 @@ Ingests match data from football-data.org and API-Football through Airflow DAGs 
 
 ### Education & Certifications
 
-* Specialization in Big Data & Artificial Intelligence, IES El Rincón (in progress)
+* Specialization in Big Data & Artificial Intelligence, IES El Rincón
 * CFGS Multiplatform Application Development (DAM), IES El Rincón (2023 – 2025)
 
 ---
